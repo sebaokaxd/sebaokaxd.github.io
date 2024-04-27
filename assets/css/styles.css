@@ -1,0 +1,19 @@
+.noticia{
+	border: 1px #cccccc solid;
+	border-width: 2px;
+	box-sizing: border-box;
+	margin: 2.5vh; 
+    background-color: black;
+}
+
+.centrado{
+	text-align: center;
+    background-color: black;
+}
+.formulario{
+	padding-left:  3vw;	
+	padding-right:  3vw;	
+}
+.footer{
+	background-color:black;
+}
